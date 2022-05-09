@@ -1,0 +1,17 @@
+name: iCore
+version: ${project.version}
+main: club.invec.core.CorePlugin
+author: Invec Development Team
+commands:
+  ban:
+    description: Ban a player from the server.
+  broadcast:
+    description: Sends a message to everyone on the server.
+  gamemode:
+    description: Set your gamemode.
+  day:
+    description: Set time to day.
+  night:
+    description: Set time to night.
+  discord:
+    description: Gives you the link to our discord server.
